@@ -1,0 +1,1 @@
+__all__ = ["vietnam","thailand"] # __all__에 적히면 공개
